@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "puppeteer": "^24.42.0"
   }
 }
