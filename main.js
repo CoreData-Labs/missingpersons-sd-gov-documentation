@@ -12,8 +12,6 @@ const CSV_OUTPUT_FILE_PATH = path.join(__dirname, "missing_persons.csv"); // Out
 
 const SEEN_RECORDS_FILE_PATH = path.join(__dirname, "seen_records.json"); // Stores already processed people to prevent duplicates
 
-const BROWSER_VIEWPORT_SIZE = { width: 600, height: 600 }; // Browser window size for consistent rendering
-
 // ===================== LOGGING UTILITIES =====================
 
 function logInfo(message) {
@@ -38,7 +36,11 @@ async function scrapeMissingPersonsWebsite() {
   const browserInstance = await puppeteer.launch({
     // Launch Chrome browser
     headless: false, // Show browser window for debugging
-    defaultViewport: BROWSER_VIEWPORT_SIZE, // Set browser size
+    args: [
+      "--no-sandbox", // disables Linux sandbox (fixes your error)
+      "--disable-setuid-sandbox", // required for many VPS/CI environments
+    ],
+    defaultViewport: { width: 600, height: 600 }, // Browser window size for consistent rendering
   });
 
   const pageInstance = await browserInstance.newPage(); // Open a new browser tab
