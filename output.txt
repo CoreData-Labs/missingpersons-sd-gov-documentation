@@ -1,0 +1,792 @@
+Name: COLIN ADDISON
+Age Missing: 15
+Age Current: 15
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: GAGE ANDERSON
+Age Missing: 31
+Age Current: 31
+Agency: Brookings Police Dept
+Phone: (605) 692-2113
+Sex: Male
+Race: Unknown
+-----------------------------
+Name: JASON APPLE
+Age Missing: 13
+Age Current: 13
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SHARON BALD EAGLE
+Age Missing: 12
+Age Current: 53
+Agency: Fall River Co. Sheriff's Office
+Phone: (605) 745-4444
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SPIRIT BARTON
+Age Missing: 16
+Age Current: 17
+Agency: Mobridge Police Dept
+Phone: (605) 845-5000
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: RIANNA BEAR KILLER
+Age Missing: 13
+Age Current: 13
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: EMMA BELT-HANSON
+Age Missing: 17
+Age Current: 17
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SAMUEL BERHAMU
+Age Missing: 18
+Age Current: 27
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: Black
+-----------------------------
+Name: TORIANO BOHNANNON
+Age Missing: 17
+Age Current: 23
+Agency: Yankton Sioux Tribal Police Dept
+Phone: (605) 384-5691
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: BREANNE BORDEAUX
+Age Missing: 14
+Age Current: 15
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: JOEY BORDEAUX
+Age Missing: 14
+Age Current: 14
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: CALVIN BROOKS
+Age Missing: 24
+Age Current: 24
+Agency: Charles Mix Co. Sheriff's Office
+Phone: (605) 487-7625
+Sex: Male
+Race: Black
+-----------------------------
+Name: VERDELL BROWN BULL SR.
+Age Missing: 50
+Age Current: 56
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: LAURIE BROWNING
+Age Missing: 16
+Age Current: 16
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: CELESTINO CARANZA
+Age Missing: 39
+Age Current: 48
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: JONATHAN CHRISTENSEN
+Age Missing: 31
+Age Current: 38
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: CHRISTOPHER CLAIRMONT
+Age Missing: 15
+Age Current: 15
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: TERRYL CORDIER
+Age Missing: 31
+Age Current: 37
+Agency: Crow Creek Tribal Police Dept
+Phone: (605) 245-2351
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: LEILANI CRAWFORD
+Age Missing: 16
+Age Current: 17
+Agency: Douglas Co. Sheriff's Office
+Phone: (605) 724-2238
+Sex: Female
+Race: White
+-----------------------------
+Name: RACHEL CYRIACKS
+Age Missing: 30
+Age Current: 42
+Agency: Sanborn Co. Sheriff's Office
+Phone: (605) 796-4511
+Sex: Female
+Race: White
+-----------------------------
+Name: SERENITY DENNARD
+Age Missing: 9
+Age Current: 16
+Agency: Pennington Co. Sheriff's Office
+Phone: (605) 394-4131
+Sex: Female
+Race: White
+-----------------------------
+Name: ALTINE DUBRAY
+Age Missing: 15
+Age Current: 15
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: PAMELA DUNN
+Age Missing: 38
+Age Current: 62
+Agency: Watertown Police Dept
+Phone: (605) 882-6210
+Sex: Female
+Race: White
+-----------------------------
+Name: ALIAH DUPRIS WOLFE
+Age Missing: 14
+Age Current: 14
+Agency: Cheyenne River Sioux Tribal PD
+Phone: (605) 964-4567
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: KAMIMILIA EAGLE BULL
+Age Missing: 16
+Age Current: 17
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: AVALEE EBERLINE
+Age Missing: 16
+Age Current: 16
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Female
+Race: Black
+-----------------------------
+Name: LAVIA EISENBRAUN
+Age Missing: 16
+Age Current: 16
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SHEYANNE FARMER
+Age Missing: 48
+Age Current: 48
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: White
+-----------------------------
+Name: SUSAN FAST EAGLE
+Age Missing: 30
+Age Current: 35
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: JOSIAS GOMEZ MAURICIO
+Age Missing: 17
+Age Current: 27
+Agency: Huron Police Dept
+Phone: (605) 353-8550
+Sex: Male
+Race: White
+-----------------------------
+Name: TERRY GOOD VOICE ELK
+Age Missing: 26
+Age Current: 61
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: JULIAN GRASS
+Age Missing: 20
+Age Current: 20
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: LINDA GROVER
+Age Missing: 39
+Age Current: 65
+Agency: Crow Creek Tribal Police Dept
+Phone: (605) 245-2351
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: STANLEY HARRIS
+Age Missing: 70
+Age Current: 85
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: CHASTITY HAWK WING
+Age Missing: 13
+Age Current: 13
+Agency: Box Elder Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: COURTNEY HEMPEL
+Age Missing: 17
+Age Current: 17
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Female
+Race: White
+-----------------------------
+Name: MAJESTIC HENDERSON
+Age Missing: 13
+Age Current: 13
+Agency: Union Co. Sheriff's Office
+Phone: (605) 356-2679
+Sex: Male
+Race: Black
+-----------------------------
+Name: MAJESTA HIGH BEAR
+Age Missing: 16
+Age Current: 16
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: GLORIA HIGH HAWK
+Age Missing: 38
+Age Current: 55
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: JOHN HIGH HAWK
+Age Missing: 17
+Age Current: 18
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: JADE HOPKINS
+Age Missing: 23
+Age Current: 25
+Agency: Pierre Police Dept
+Phone: (605) 773-7410
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: NETEYA HORN ARAPAHOE
+Age Missing: 13
+Age Current: 15
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: EZRA HOWARD
+Age Missing: 17
+Age Current: 17
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: CURTIS JAMES
+Age Missing: 39
+Age Current: 41
+Agency: Hughes Co. Sheriff's Office
+Phone: (605) 773-7470
+Sex: Male
+Race: White
+-----------------------------
+Name: KAEL JEALOUS OF HIM
+Age Missing: 16
+Age Current: 17
+Agency: Pennington Co. Sheriff's Office
+Phone: (605) 394-4131
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: LATHIA JENSEN
+Age Missing: 16
+Age Current: 16
+Agency: Box Elder Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: KILYNN KURPIS
+Age Missing: 17
+Age Current: 17
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: White
+-----------------------------
+Name: DONNA LARRABE
+Age Missing: 16
+Age Current: 65
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: LINDA LAW
+Age Missing: 55
+Age Current: 78
+Agency: Pierre Police Dept
+Phone: (605) 773-7410
+Sex: Female
+Race: White
+-----------------------------
+Name: ALAYCIOUS LEFT HAND BULL
+Age Missing: 6
+Age Current: 9
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: ALSA LEFT HAND BULL
+Age Missing: 8
+Age Current: 11
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: NEIL LITTLE EAGLE
+Age Missing: 49
+Age Current: 58
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: Unknown
+-----------------------------
+Name: LARISSA LONE HILL
+Age Missing: 21
+Age Current: 31
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: DONALD LONGMAN
+Age Missing: 15
+Age Current: 15
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: NEFI LOPEZ
+Age Missing: 17
+Age Current: 17
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: ANDREW LUFKINS
+Age Missing: 23
+Age Current: 39
+Agency: Sisseton Police Dept
+Phone: (605) 698-3932
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: KEVIN MARSHALL
+Age Missing: 38
+Age Current: 47
+Agency: Cheyenne River Sioux Tribal PD
+Phone: (605) 964-4567
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: TARRON MARSHALL
+Age Missing: 1
+Age Current: 11
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: YURIXI MARTINEZ
+Age Missing: 16
+Age Current: 17
+Agency: Lincoln Co. Sheriff's Office
+Phone: (605) 764-5651
+Sex: Female
+Race: Asian/Pacific Islander
+-----------------------------
+Name: STANLEY MENARD
+Age Missing: 17
+Age Current: 18
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: KURTIS MERRIWEATHER WARNER
+Age Missing: 1
+Age Current: 7
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: MACY NORTHCUTT
+Age Missing: 15
+Age Current: 17
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: White
+-----------------------------
+Name: ROBERT ODMAN
+Age Missing: 53
+Age Current: 83
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: DARVIN PACAYCHEN
+Age Missing: 15
+Age Current: 18
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: MIGUEL PASCUAL
+Age Missing: 16
+Age Current: 19
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: PAH POW
+Age Missing: 30
+Age Current: 40
+Agency: Aberdeen Police Dept
+Phone: (605) 626-7000
+Sex: Female
+Race: Asian/Pacific Islander
+-----------------------------
+Name: YOCELIN RAMOS ESCOBAR
+Age Missing: 15
+Age Current: 20
+Agency: Mitchell Police Dept
+Phone: (605) 995-8400
+Sex: Female
+Race: Unknown
+-----------------------------
+Name: SKYLAR RED CLOUD
+Age Missing: 14
+Age Current: 14
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SAMUEL REITZEL
+Age Missing: 42
+Age Current: 42
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Male
+Race: White
+-----------------------------
+Name: EJAE RENCOUNTRE
+Age Missing: 16
+Age Current: 16
+Agency: Pennington Co. Sheriff's Office
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: FRANCIS ROMERO
+Age Missing: 38
+Age Current: 40
+Agency: Jackson Co. Sheriff's Office
+Phone: (605) 837-2285
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SUNDANCE ROSSPAGANDEJESUS
+Age Missing: 16
+Age Current: 16
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: BRIDGETTE ROUBIDEAUX
+Age Missing: 15
+Age Current: 16
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: DAVID RUGGIERO
+Age Missing: 36
+Age Current: 49
+Agency: Huron Police Dept
+Phone: (605) 353-8550
+Sex: Male
+Race: Unknown
+-----------------------------
+Name: EVELYN SANDOVAL
+Age Missing: 15
+Age Current: 19
+Agency: Hanson Co. Sheriff's Office
+Phone: (605) 239-4409
+Sex: Female
+Race: White
+-----------------------------
+Name: LUCAS SAXTON
+Age Missing: 17
+Age Current: 18
+Agency: Chamberlain Police Dept
+Phone: (605) 234-4406
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: JOSHUA SCHLEUNING
+Age Missing: 17
+Age Current: 18
+Agency: Mitchell Police Dept
+Phone: (605) 995-8400
+Sex: Male
+Race: White
+-----------------------------
+Name: DELMA SITS POOR
+Age Missing: 12
+Age Current: 64
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SAVANNAH STANDING BEAR
+Age Missing: 22
+Age Current: 23
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: CECELIA STEELE
+Age Missing: 13
+Age Current: 13
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: STANLEY STROLE
+Age Missing: 37
+Age Current: 84
+Agency: Aberdeen Police Dept
+Phone: (605) 626-7000
+Sex: Male
+Race: White
+-----------------------------
+Name: LINDA THACKER
+Age Missing: 65
+Age Current: 65
+Agency: Lawrence Co. Sheriff's Office
+Phone: (605) 578-2230
+Sex: Female
+Race: Unknown
+-----------------------------
+Name: MAJESTIC THOMAS
+Age Missing: 17
+Age Current: 19
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: CATHERINE TORNQUIST
+Age Missing: 55
+Age Current: 70
+Agency: Fall River Co. Sheriff's Office
+Phone: (605) 745-4444
+Sex: Female
+Race: White
+-----------------------------
+Name: ALISHA TRAMP
+Age Missing: 32
+Age Current: 32
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: White
+-----------------------------
+Name: TERRANCE TRUEBLOOD
+Age Missing: 17
+Age Current: 17
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: KIANA TWO BULLS
+Age Missing: 17
+Age Current: 17
+Agency: Pennington Co. Sheriff's Office
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: BEVERLY ULRICH
+Age Missing: 42
+Age Current: 65
+Agency: Belle Fourche Police Dept
+Phone: (605) 892-4354
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: ALEJANDRO VASQUEZ
+Age Missing: 24
+Age Current: 34
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: ADLER WALKING
+Age Missing: 15
+Age Current: 15
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: TYLER WEATHERSBY
+Age Missing: 31
+Age Current: 33
+Agency: Sioux Falls Police Dept
+Phone: (605) 367-7000
+Sex: Male
+Race: Black
+-----------------------------
+Name: JEWEL WHEELER
+Age Missing: 32
+Age Current: 84
+Agency: 
+Phone: (505) 221-0974
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: NIASHA WHIRLWIND HORSE
+Age Missing: 16
+Age Current: 17
+Agency: Bennett Co. Sheriff's Office
+Phone: (605) 685-6516
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: AVERI WHIRLWIND HORSE
+Age Missing: 13
+Age Current: 17
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: RICHARD WHITE CALF
+Age Missing: 71
+Age Current: 93
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Male
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: DELILAH WHITE DRESS
+Age Missing: 63
+Age Current: 64
+Agency: Pine Ridge Oglala Sioux Tribal PD
+Phone: (605) 867-5111
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: JESSYCA WOUNDED SHIELD
+Age Missing: 13
+Age Current: 14
+Agency: Lawrence Co. Sheriff's Office
+Phone: (605) 578-2230
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: ALLISIA WRIGHT
+Age Missing: 17
+Age Current: 18
+Agency: Rosebud Sioux Tribal Police Dept
+Phone: (605) 856-2282
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
+Name: SAVANNAH YELLOW HAWK
+Age Missing: 17
+Age Current: 17
+Agency: Rapid City Police Dept
+Phone: (605) 394-4131
+Sex: Female
+Race: American Indian/Alaskan Native
+-----------------------------
