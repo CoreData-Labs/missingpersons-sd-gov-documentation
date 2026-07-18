@@ -33,7 +33,7 @@ jobs:
 
       # ⚙️ STEP 2: Setup Node.js
       - name: Setup Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: "24" # 💡 Use stable Node.js version (LTS)
 
